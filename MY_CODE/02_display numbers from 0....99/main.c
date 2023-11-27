@@ -1,7 +1,7 @@
 /*
  * main.c
  *
- *  SSD_App2
+ *  display numbers from 0....99
  *  Author: Ahmed Hassan Salama
  */
 #include "STD_TYPES.h"

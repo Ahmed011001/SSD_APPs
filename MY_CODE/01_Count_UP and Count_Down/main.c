@@ -1,7 +1,7 @@
 /*
  * main.c
  *
- *  SSD_App1
+ *  Count_UP and Count_Down
  *  Author: Ahmed Hassan Salama
  */
 #include"STD_TYPES.h"

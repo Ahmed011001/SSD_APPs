@@ -1,7 +1,7 @@
 /*
  * main.c
  *
- *  SSD_App3
+ *  Make Animation move from a to f (7-SEG)
  *  Author: Ahmed Hassan Salama
  */
 
