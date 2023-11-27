@@ -1,7 +1,7 @@
 /*
  * main.c
  *
- *  SSD_App3
+ * Using button to count up from 0.....9
  *  Author: Ahmed Hassan Salama
  */
 #include "STD_TYPES.h"
