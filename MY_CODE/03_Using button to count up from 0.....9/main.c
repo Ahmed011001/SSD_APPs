@@ -15,19 +15,8 @@
 #include <util/delay.h>
 
 
-SSD_Type SSD1 = {
-		SSD_COMMON_CATHODE,
-		SSD_PORTC ,
-		SSD_PORTC ,
-		SSD_PIN7
-};
-
-SW_Type SW1 = {
-		DIO_PORTA ,
-		DIO_PIN0  ,
-		SW_Int_PULL_UP
-
-};
+SSD_Type SSD1 = {SSD_COMMON_CATHODE,SSD_PORTC ,SSD_PORTC ,SSD_PIN7};
+SW_Type SW1 = {DIO_PORTA ,DIO_PIN0 ,SW_Int_PULL_UP};
 
 
 
